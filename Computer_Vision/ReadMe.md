@@ -1,6 +1,6 @@
-======================================================================
-Guida all'Installazione e all'Uso - Riconoscimento Emozioni Facciali
-======================================================================
+
+# Guida all'Installazione e all'Uso - Riconoscimento Emozioni Facciali
+
 
 Questo file README fornisce le istruzioni passo dopo passo per configurare l'ambiente necessario e avviare il progetto di riconoscimento delle emozioni facciali in tempo reale tramite webcam.
 
